@@ -48,3 +48,4 @@
 
 # Screenshot
 
+<img src="https://raw.githubusercontent.com/Cholmes1994/Progressive_Budget/master/public/images/Screen%20Shot%202020-08-06%20at%203.34.22%20PM.png" alt="app example" width="600px"/>
